@@ -35,24 +35,34 @@ Welcome to FinFindr Platform, a matchmaking Web Application connecting investors
 ### Onboarding (`OnBoarding.js`)
 - Role Selection: Users specify their role (Investor or Advisor) for a tailored experience.
 
+- ![image](https://github.com/vidhihihihihi/finfindr/assets/92211866/9dff6b1e-f9c6-4c23-b782-35845043d4f5)
+
+
 ### Advisor Information (`Advisor.js`)
 - Detailed Data Collection: Captures information like portfolio volume, experience, and SEBI registration.
 - Customized for Advisors: Tailored interface and questions for financial advisors.
+![image](https://github.com/vidhihihihihi/finfindr/assets/92211866/937e3e51-cb9f-4a0e-aa30-632c3b795be7)
 
 ### Investor Information (`Investor.js`)
 - Investor-Centric Questions: Gathers information on net worth, investment goals, and risk tolerance.
 - Personalized Experience: Ensures investors receive relevant advisor suggestions.
+- ![image](https://github.com/vidhihihihihi/finfindr/assets/92211866/f6691778-73c6-493f-a30e-e1ad39e282be)
+
 
 ### Dashboard (`Dashboard.js`)
 - Matchmaking Core: Displays potential matches based on user profiles.
 - Filtered Suggestions: Advisors are shown investors by net worth, and vice versa.
+- ![image](https://github.com/vidhihihihihi/finfindr/assets/92211866/44d4d950-f5a8-4978-8bda-eaa34cc2f43c)
+
 
 ### Chat Components
 - Interactive Sidebar: Enables immediate communication with matches.
 - Comprehensive Chat Interface: `ChatContainer.js`, `ChatDisplay.js`, `ChatInput.js` for a full-fledged chat experience.
+![image](https://github.com/vidhihihihihi/finfindr/assets/92211866/4a684bc2-a81c-433a-8b6a-4fa07cfca7d9)
 
 ### Match Tracking (`MatchesDisplay.js`)
 - Engagement Enhancement: Lists successful matches and encourages continued interaction.
+![image](https://github.com/vidhihihihihi/finfindr/assets/92211866/ee6d0291-6105-4716-a20c-dc17d30ece7b)
 
 ### Responsive Design and Aesthetics (`index.css`)
 - Visually Appealing UI: Stylish and intuitive design.
