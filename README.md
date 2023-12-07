@@ -46,7 +46,9 @@ Welcome to FinFindr Platform, a matchmaking Web Application connecting investors
 ### Investor Information (`Investor.js`)
 - Investor-Centric Questions: Gathers information on net worth, investment goals, and risk tolerance.
 - Personalized Experience: Ensures investors receive relevant advisor suggestions.
-- ![image](https://github.com/vidhihihihihi/finfindr/assets/92211866/f6691778-73c6-493f-a30e-e1ad39e282be)
+- ![image](https://github.com/vidhihihihihi/finfindr/assets/92211866/e673753c-4931-4f38-9ab4-652414aed9b5)
+
+  
 
 
 ### Dashboard (`Dashboard.js`)
