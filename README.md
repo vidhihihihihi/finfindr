@@ -2,14 +2,13 @@
 
 Check out the live demo of FinFindr Platform [Click Here](https://finfindr.netlify.app/)
 
-![image](https://github.com/vidhihihihihi/FinFindr-Platform/assets/92211866/ace8860f-4ac6-482b-b1d3-558ab96105fa)
-![image](https://github.com/vidhihihihihi/FinFindr-Platform/assets/92211866/48827301-9916-4f6d-9dea-b5e33871a595)
+
 
 
 ## Table of Contents
 
 - [Description](#description)
-- [Key Features](#key-features)
+- [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,11 +19,44 @@ Check out the live demo of FinFindr Platform [Click Here](https://finfindr.netli
 
 Welcome to FinFindr Platform, a matchmaking Web Application connecting investors with financial advisors in India. The platform addresses a significant market gap by making financial advisory accessible to a broader audience.
 
-## Key Features
+## Features
 
-- **User Authentication:** Secure user authentication for a personalized experience.
-- **Dynamic Matching Algorithm:** Implemented in Dashboard.js for effective pairing of investors and financial advisors.
-- **Real-time Chat Functionality:** Facilitates communication between users for seamless interaction.
+### Home Page (`Home.js`)
+- User Authentication: Sign-in or account creation options.
+- Welcoming Interface: Intuitive design guiding users through the application's features.
+
+- ![image](https://github.com/vidhihihihihi/finfindr/assets/92211866/7c3cdd1b-ed0c-40ce-b63c-0542c56a3671)
+- ![image](https://github.com/vidhihihihihi/finfindr/assets/92211866/d6728986-1890-46f5-9576-31ecaf68b6ac)
+- ![image](https://github.com/vidhihihihihi/finfindr/assets/92211866/3e0baf84-4cf3-4dc8-925b-67761f19bd84)
+
+
+  
+
+### Onboarding (`OnBoarding.js`)
+- Role Selection: Users specify their role (Investor or Advisor) for a tailored experience.
+
+### Advisor Information (`Advisor.js`)
+- Detailed Data Collection: Captures information like portfolio volume, experience, and SEBI registration.
+- Customized for Advisors: Tailored interface and questions for financial advisors.
+
+### Investor Information (`Investor.js`)
+- Investor-Centric Questions: Gathers information on net worth, investment goals, and risk tolerance.
+- Personalized Experience: Ensures investors receive relevant advisor suggestions.
+
+### Dashboard (`Dashboard.js`)
+- Matchmaking Core: Displays potential matches based on user profiles.
+- Filtered Suggestions: Advisors are shown investors by net worth, and vice versa.
+
+### Chat Components
+- Interactive Sidebar: Enables immediate communication with matches.
+- Comprehensive Chat Interface: `ChatContainer.js`, `ChatDisplay.js`, `ChatInput.js` for a full-fledged chat experience.
+
+### Match Tracking (`MatchesDisplay.js`)
+- Engagement Enhancement: Lists successful matches and encourages continued interaction.
+
+### Responsive Design and Aesthetics (`index.css`)
+- Visually Appealing UI: Stylish and intuitive design.
+- Cross-Device Compatibility: Responsive layout for various devices and screen sizes.
 
 ## Technologies
 
